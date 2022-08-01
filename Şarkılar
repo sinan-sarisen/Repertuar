@@ -1,5 +1,5 @@
-[
-    {
+{
+  "repertuar": [{
       "artist": "Barış MANÇO",
       "songs": [
          {"title": "Bolu Dağları"}
@@ -63,4 +63,5 @@
          {"title": "İyi Değilim Ben"}
        ]
      }
-]
+    ]
+}
