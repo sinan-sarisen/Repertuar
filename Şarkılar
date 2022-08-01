@@ -1,16 +1,66 @@
-Şarkılar
-
-Barış MANÇO - Bolu Dağları
-Plain White T's - Hey There Delilah
-Fikri KARAYEL - Trenler 
-Güncel Gürsel Artıktay - Uzak Yol
-Can Kazaz - Sürsün Bahar
-Yüksek Sadakat - Belki Üstümüzden Bir Kuş Geçer
-Madrigal - Seni Dert Etmeler
-Can Kazaz - Gemi
-Nazan Öncel - Gidelim Buralardan
-Emir Can İğrek - Nalan
-Pinhani - Leyla
-Pinhani - Bilir O Beni
-Pinhani - Beni Sen İnandır
-Pinhani - İyi Değilim Ben
+[
+    {
+      "artist": "Barış MANÇO",
+      "songs": [
+         {"title": "Bolu Dağları"}
+       ]
+    },
+    {
+      "artist": "Plain White T's",
+      "songs": [
+         {"title": "Hey There Delilah"}
+       ]
+    },
+    {
+      "artist": "Fikri KARAYEL",
+      "songs": [
+         {"title": "Trenler"}
+       ]
+    },
+    {
+      "artist": "Güncel Gürsel Artıktay",
+      "songs": [
+         {"title": "Uzak Yol"}
+       ]
+    },
+    {
+      "artist": "Yüksek Sadakat",
+      "songs": [
+         {"title": "Belki Üstümüzden Bir Kuş Geçer"}
+       ]
+    },
+    {
+      "artist": "Nazan Öncel",
+      "songs": [
+         {"title": "Gidelim Buralardan"}
+       ]
+    },
+    {
+      "artist": "Emir Can İğrek",
+      "songs": [
+         {"title": "Nalan"}
+       ]
+    },
+    {
+      "artist": "Madrigal",
+      "songs": [
+         {"title": "Seni Dert Etmeler"}
+       ]
+    },
+    {
+      "artist": "Can Kazaz",
+      "songs": [
+         {"title": "Sürsün Bahar"},
+         {"title": "Gemi"}
+       ]
+    },
+    {
+      "artist": "Pinhani",
+      "songs": [
+         {"title": "Leyla"},
+         {"title": "Bilir O Beni"},
+         {"title": "Beni Sen İnandır"},
+         {"title": "İyi Değilim Ben"}
+       ]
+     }
+]
